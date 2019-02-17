@@ -1,6 +1,6 @@
 {
-  "name": "Syntax",
-  "description": "Full Stack Developers Wes Bos and Scott Tolinski dive deep into web development topics, explaining how they work and talking about their own experiences. They cover from JavaScript frameworks like React, to the latest advancements in CSS to simplifying web tooling.",
+  "name": "Something was Wrong",
+  "description": "A podcast about many things.",
   "engines": {
     "node": ">=8.1.2"
   },
@@ -10,12 +10,6 @@
     "start": "NODE_ENV=production node server.js",
     "deploy": "now",
     "alias": "now alias"
-  },
-  "now": {
-    "alias": [
-      "syntax",
-      "syntax.fm"
-    ]
   },
   "dependencies": {
     "autoprefixer": "8.6.3",
