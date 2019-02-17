@@ -1,8 +1,8 @@
-# Syntax.
+# Something Was Wrong
 
-A tasty treats podcast for Web Developers.
+A podcast about abusive men among other things.
 
-This is the site that runs [Something Was Wrong] (https://www.somethingwaswrong.com) and is based of the podcast site for [Syntax.fm](https://syntax.fm) — go there to listen to it!
+This is the site that runs [Something Was Wrong](https://www.somethingwaswrong.com) and was built based of the podcast site for [Syntax.fm](https://syntax.fm) — go there to listen to it!
 
 This site is built on React and Next.js
 
