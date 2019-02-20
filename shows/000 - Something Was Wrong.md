@@ -19,7 +19,7 @@ Song U Think U by Glad Rags, find their album Wonder Under on iTunes.
 
 Special thanks to [Sara](https://www.instagram.com/sara_lew2/), her family and friends. Check out Sara's personal blog: [Space and Purpose](http://www.spaceandpurpose.com/)
 
-If you or someone you know is being abused, please contact:
+###If you or someone you know is being abused, please contact:
 
 The National Domestic Violence Hotline 
 1-800-799-7233 (SAFE)
