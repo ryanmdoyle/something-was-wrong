@@ -1,8 +1,8 @@
 ---
-number: 2
-title: It Was Weird
-date: 1550793600000
-url: http://traffic.libsyn.com/somethingwaswrong/It_Was_Weird_updated.mp3?dest-id=945407
+number: 1
+title: There Were No Red Flags
+date: 1550707200000
+url: http://traffic.libsyn.com/somethingwaswrong/There_Were_No_Red_Flags_updated_2_7.mp3?dest-id=945407
 ---
 
 ## Show Notes

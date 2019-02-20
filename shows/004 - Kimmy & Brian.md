@@ -1,8 +1,8 @@
 ---
-number: 2
-title: It Was Weird
-date: 1550793600000
-url: http://traffic.libsyn.com/somethingwaswrong/It_Was_Weird_updated.mp3?dest-id=945407
+number: 4
+title: Kimmy & Brian
+date: 1551657600000
+url: http://traffic.libsyn.com/somethingwaswrong/Episode_Four_-_Kimmy__Brian.mp3?dest-id=945407
 ---
 
 ## Show Notes
@@ -16,6 +16,10 @@ Thank you to Alissa Doyle for her hype, support + story editing assistance.
 
 Follow the hashtag [#SomethingWasWrongPod](https://www.instagram.com/explore/tags/somethingwaswrongpod/) on Instagram.
 
+###Contact Us!
+If you would like to share your story with us, you can now call us and leave a voicemail. You can remain anonymous or share your first name and location. Our number is 1 (323) 379-5678.
+
+###Sponsor
 Today’s episode is sponsored by [Picture Play](http://shopbabyrabies.com/?aff=4), use offer code SWW to get $3 off now.
 
 If you or someone you know is being abused, please contact [The National Domestic Violence Hotline](https://www.thehotline.org/) at 1-800-799-7233 (SAFE).

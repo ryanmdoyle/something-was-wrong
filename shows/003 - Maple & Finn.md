@@ -1,8 +1,8 @@
 ---
-number: 2
-title: It Was Weird
-date: 1550793600000
-url: http://traffic.libsyn.com/somethingwaswrong/It_Was_Weird_updated.mp3?dest-id=945407
+number: 3
+title: Maple & Finn
+date: 1551312000000
+url: http://traffic.libsyn.com/somethingwaswrong/Maple__Finn_updated.mp3?dest-id=945407
 ---
 
 ## Show Notes
