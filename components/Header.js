@@ -5,7 +5,7 @@ const Header = () => (
   <header className="header">
     <div className="header__left">
       <Link href="/">
-        <a aria-label="Syntax.FM">
+        <a aria-label="SWW">
           <img className="header__logo" src="/static/sww.jpg" alt="Something Was Wrong" />
         </a>
       </Link>
@@ -50,14 +50,14 @@ const Header = () => (
         <div className="person">
           <img
             src="/static/sara.jpg"
-            alt="Scott Tolinski"
+            alt="Sara Lewis"
             className="avatar"
             rel="noopener noreferrer"
           />
           <h3>Sara Lewis</h3>
           <a
             target="_blank"
-            href="https://twitter.com/stolinski"
+            href="https://twitter.com/"
             className="person__social person__social--twitter"
             rel="noopener noreferrer"
           >
