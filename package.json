@@ -1,5 +1,5 @@
 {
-  "name": "somethingw-was-wrong",
+  "name": "something-was-wrong",
   "description": "A podcast about many things.",
   "engines": {
     "node": ">=8.1.2"
@@ -8,6 +8,7 @@
     "dev": "node server.js",
     "build": "next build",
     "start": "NODE_ENV=production node server.js",
+    "next-start": "next start",
     "deploy": "now",
     "alias": "now alias"
   },
@@ -27,8 +28,8 @@
     "postcss-loader": "2.1.5",
     "prop-types": "^15.6.2",
     "raw-loader": "^0.5.1",
-    "react": "^16.4.1",
-    "react-dom": "^16.4.1",
+    "react": "^16.8.2",
+    "react-dom": "^16.8.2",
     "react-icons": "^3.0.5",
     "speakingurl": "^14.0.1"
   },
