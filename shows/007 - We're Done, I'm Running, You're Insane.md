@@ -1,7 +1,7 @@
 ---
 number: 7
 title: We're Done, I'm Running, You're Insane
-date: 1552953600000
+date: 2019-2-18
 url: http://traffic.libsyn.com/somethingwaswrong/-_Episode_Seven_-_Were_Done_Im_Running_Youre_Insane.mp3?dest-id=945407
 ---
 

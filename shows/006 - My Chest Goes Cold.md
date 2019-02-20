@@ -1,7 +1,7 @@
 ---
 number: 6
 title: My Chest Goes Cold
-date: 1552953600000
+date: 2019-2-18
 url: http://traffic.libsyn.com/somethingwaswrong/-_Episode_Six_-_My_Chest_Goes_Cold.mp3?dest-id=945407
 ---
 

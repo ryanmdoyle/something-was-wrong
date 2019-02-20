@@ -1,7 +1,7 @@
 ---
 number: 2
 title: It Was Weird
-date: 1550793600000
+date: 2019-1-21
 url: http://traffic.libsyn.com/somethingwaswrong/It_Was_Weird_updated.mp3?dest-id=945407
 ---
 

@@ -1,7 +1,7 @@
 ---
 number: 0
 title: Something Was Wrong
-date: 1547769600000
+date: 2018-12-17
 url: http://traffic.libsyn.com/somethingwaswrong/Something_Was_Wrong_Trailer_Season_One.mp3?dest-id=945407
 ---
 

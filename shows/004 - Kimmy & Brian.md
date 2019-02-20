@@ -1,7 +1,7 @@
 ---
 number: 4
 title: Kimmy & Brian
-date: 1551657600000
+date: 2019-2-3
 url: http://traffic.libsyn.com/somethingwaswrong/Episode_Four_-_Kimmy__Brian.mp3?dest-id=945407
 ---
 

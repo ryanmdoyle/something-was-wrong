@@ -1,7 +1,7 @@
 ---
 number: 5
 title: The Devil is a Good Liar
-date: 1552262400000
+date: 2019-2-10
 url: http://traffic.libsyn.com/somethingwaswrong/The_Devil_is_a_Good_Liar.mp3?dest-id=945407
 ---
 
