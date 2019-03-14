@@ -2,7 +2,7 @@
 number: 8
 title: There is Much to Confess
 date: 2019-2-25
-url: https://traffic.libsyn.com/secure/somethingwaswrong/There_is_Much_to_Confess_-_Episode_Eight_-.mp3?dest-id=945407
+url: https://traffic.libsyn.com/somethingwaswrong/There_is_Much_to_Confess_-_Episode_Eight_-.mp3?dest-id=945407
 ---
 
 ## Show Notes
