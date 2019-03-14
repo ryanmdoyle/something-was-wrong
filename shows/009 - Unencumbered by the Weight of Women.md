@@ -1,7 +1,7 @@
 ---
 number: 9
 title: Unencumbered by the Weight of Women
-date: 2019-3-2019
+date: 2019-3-3
 url: https://traffic.libsyn.com/secure/somethingwaswrong/-_Episode_Nine_-.mp3?dest-id=945407
 ---
 
