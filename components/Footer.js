@@ -15,7 +15,7 @@ const Footer = () => (
         className="person__social person__social--twitter"
         rel="noopener noreferrer"
       > doylecodes.com.</a>
-      {' '}Most of the site copied over from gurus WeBos and Scott Tolinski at syntax.fm. Their source is
+      {' '}Most of the site copied over from gurus WesBos and Scott Tolinski at syntax.fm. Their source is
       on{' '}
       <a
         href="https://github.com/wesbos/syntax"
