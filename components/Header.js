@@ -12,7 +12,7 @@ const Header = () => (
     </div>
     <div className="header__right">
       <div className="title">
-        <h2 className="tagline">A Podcast about the abusive asshole "Dick."</h2>
+        <h2 className="tagline">A docuseries about discovery, trauma and recovery.</h2>
         <a
           target="_blank"
           href="https://docs.google.com/forms/d/e/1FAIpQLSfQlAo1wXHiJMySdU-h8QMtfoz92aMS9eycEHXB6eRCLh8KHA/viewform"
