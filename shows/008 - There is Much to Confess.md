@@ -1,7 +1,7 @@
 ---
 number: 8
 title: There is Much to Confess
-date: 2019-2-25
+date: 2019-2-24
 url: https://traffic.libsyn.com/somethingwaswrong/There_is_Much_to_Confess_-_Episode_Eight_-.mp3?dest-id=945407
 ---
 
@@ -17,11 +17,11 @@ Thank you to Alissa Doyle for her hype, support + story editing assistance.
 Thank you to my husband Michael and our three amazing children Jude, Ruby and Ozzy for cheering me on every step of the way.
 
 Follow the hashtag [#SomethingWasWrongPod](https://www.instagram.com/explore/tags/somethingwaswrongpod/) on Instagram.
-
-###Contact Us!
+ 
+### Contact Us!
 If you would like to share your story with us, you can now call us and leave a voicemail. You can remain anonymous or share your first name and location. Our number is 1 (323) 379-5678. Your message might be shared on a future episode. 
 
-###Sponsor
+### Sponsor
 Today’s episode is sponsored by [Picture Play](http://shopbabyrabies.com/?aff=4), use offer code SWW to get $3 off now.
 
 If you or someone you know is being abused, please contact [The National Domestic Violence Hotline](https://www.thehotline.org/) at 1-800-799-7233 (SAFE).
