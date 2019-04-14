@@ -12,14 +12,14 @@ const Header = () => (
     </div>
     <div className="header__right">
       <div className="title">
-        <h2 className="tagline">A docuseries about discovery, trauma and recovery.</h2>
+        <h2 className="tagline">{`A docuseries about discovery, trauma & recovery.`}</h2>
         <a
           target="_blank"
-          href="https://docs.google.com/forms/d/e/1FAIpQLSfQlAo1wXHiJMySdU-h8QMtfoz92aMS9eycEHXB6eRCLh8KHA/viewform"
+          href="https://forms.gle/vXmjLLn2FpsKVqSV8"
           className="title__potluck-btn"
           rel="noopener noreferrer"
         >
-          Leave us a note →
+          Leave a note →
         </a>
       </div>
       <div className="people">
