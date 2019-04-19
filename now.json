@@ -1,4 +1,7 @@
 {
   "version": 1,
-  "alias": "somethingwaswrong.now.sh"
+  "alias": "somethingwaswrong.now.sh",
+  "env" : {
+    "NODE_ENV": "production"
+  }
 }
