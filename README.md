@@ -1,22 +1,29 @@
-# Something Was Wrong
+# Something Was Wrong (podcast site)
 
-A podcast about abusive men among other things.
+The website I built in 2019 for the *Something Was Wrong* podcast. It was
+adapted from Wes Bos and Scott Tolinski's open-source
+[Syntax.fm](https://github.com/wesbos/Syntax) site. The podcast has since moved
+to a different platform, so this code is no longer what runs
+somethingwaswrong.com.
 
-This is the site that runs [Something Was Wrong](https://www.somethingwaswrong.com) and was built based of the podcast site for [Syntax.fm](https://syntax.fm) — go there to listen to it!
+## How it works
 
-This site is built on React and Next.js
+- Each episode is a Markdown file in `shows/` with front matter (number, title,
+  date, audio URL). The site reads them at build time, so publishing an episode
+  means adding a file
+- A custom audio player with progress, volume, and playback speed controls stays
+  on screen while you browse show notes
+- The player saves your position and speed in `localStorage` for each episode,
+  so listeners pick up where they left off
+- Includes a sponsor page
 
-## Requirements
-- Node 8.1.2 or higher
+## Tech
 
-## Development
+Next.js · React · Express (custom server and routes) · Stylus · deployed with Now (now Vercel)
 
-First you `npm install`
+## Running locally
 
-Then you `npm run dev` and visit `http://localhost:7777`.
-
-Then you do some work.
-
-When you are ready for prime time, you can just submit a PR to this repo and it will be deployed once it's accepted.
-
-If you want to build your own version, just run `npm run build` and then I'd recommend deploying with `now`.
+```bash
+npm install
+npm run dev   # http://localhost:7777
+```
